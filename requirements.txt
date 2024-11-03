@@ -1,0 +1,6 @@
+langgraph
+langsmith
+langchain_anthropic
+langchain_community
+tavily-python
+pydantic>=2.0.0 

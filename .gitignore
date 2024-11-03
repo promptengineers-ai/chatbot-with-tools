@@ -1,0 +1,92 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore cache directories
+.cache/
+__pycache__/
+
+# Ignore compiled C extensions
+*.so
+
+# Ignore mypy type checker cache
+.mypy_cache/
+
+# Ignore coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.save
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore build directories
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ignore wheel files
+*.whl
+
+# Ignore node_modules
+node_modules/
+
+# Ignore yarn files
+.yarn/
+.pnp.*
+.yarn-cache/
+.yarnrc.yml
+
+# Ignore generated documentation
+docs/_build/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore test results
+test-results/
+
+# Ignore local configuration files
+local_settings.py
